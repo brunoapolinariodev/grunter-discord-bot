@@ -2,6 +2,9 @@
 
 > **Um pinguim assistente ranzinza pronto para anotar suas tarefas, mandar você trabalhar e ainda reclamar enquanto faz isso.**
 
+![d41a993c-199d-4662-98b9-4beb60607b8c](https://github.com/user-attachments/assets/1a1fcafd-e12d-4bde-ab84-f953a3760344)
+*“Eu trabalho, mas não quer dizer que eu goste de você.” – Grunter*
+
 ## ✨ Features
 
 | Comando                                              | Forma          | Descrição                                                               |
@@ -87,5 +90,4 @@ Distribuído sob a licença **MIT**. Veja `LICENSE` para mais.
 * [discord.py](https://discordpy.readthedocs.io/) pela base.
 * [python-dotenv](https://pypi.org/project/python-dotenv/) pela simplicidade no carregamento de token.
 
-*“Eu trabalho, mas não quer dizer que eu goste de você.” – Grunter*
 
