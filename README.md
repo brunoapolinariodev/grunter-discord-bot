@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Grunter – Discord Bot 🐧
 
 > **Um pinguim assistente ranzinza pronto para anotar suas tarefas, mandar você trabalhar e ainda reclamar enquanto faz isso.**
@@ -88,3 +89,5 @@ Distribuído sob a licença **MIT**. Veja `LICENSE` para mais.
 * [python-dotenv](https://pypi.org/project/python-dotenv/) pela simplicidade no carregamento de token.
 
 *“Eu trabalho, mas não quer dizer que eu goste de você.” – Grunter*
+=======
+>>>>>>> 9009a89 (docs: add README and update persistence helpers)
