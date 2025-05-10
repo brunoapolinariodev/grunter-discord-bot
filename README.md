@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Grunter – Discord Bot 🐧
 
 > **Um pinguim assistente ranzinza pronto para anotar suas tarefas, mandar você trabalhar e ainda reclamar enquanto faz isso.**
