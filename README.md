@@ -1,6 +1,8 @@
 # Grunter – Discord Bot 🐧
 
 > **Um pinguim assistente ranzinza pronto para anotar suas tarefas, mandar você trabalhar e ainda reclamar enquanto faz isso.**
+> ![Gravação de tela de 2025-05-13 14-12-32](https://github.com/user-attachments/assets/cc668334-124e-478a-87be-3c070fdcd912)
+
 
 ## ✨ Features
 
